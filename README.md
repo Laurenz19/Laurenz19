@@ -5,7 +5,7 @@
  knowledges and my skills.
 
 - 🌱 I’m currently learning Vuejs & Firebase.
-- 💞️ I’m looking to collaborate on building web applicaton
+- 💞️ I’m looking to collaborate on building web application
 - 📫 How to reach me
 You can contact me via this email: laurenziosambany@gmail.com
 
