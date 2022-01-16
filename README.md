@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Laurenzio Sambany
 - 👀 Recently graduated with bachelor's degree in software development at "Ecole National d'Informatique", 
- university of Madagascar, I am avalaible for hire to work remotly as web developer. I qualifed myself
+ university of Madagascar, I am avalaible for hire to work remotly as web developer. I qualified myself
  as a junior full stack developer, natural curious, quitly confident and hard worker to improve my 
  knowledges and my skills.
 
