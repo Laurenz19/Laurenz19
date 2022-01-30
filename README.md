@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurenz19&label=Profile%20views&color=0e75b6&style=flat" alt="laurenz19" /> </p>
 
-**A lit bit about myself**
+**A little bit about myself**
  <p>Recently graduated with bachelor's degree in software development at "Ecole National d'Informatique", 
  university of Madagascar, I am avalaible for hire to work remotly as web developer. I am natural curious,
  quitly confident and hard worker to improve my knowledges and my skills one day at a time.</p>
