@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAMBANY Michel Laurenzio</h1>
 <h3 align="center">Full Stack JavaScript Developer</h3>
-
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurenz19&label=Profile%20views&color=0e75b6&style=flat" alt="laurenz19" /> </p>
 
 - 🔭 I’m avalaible for hire
