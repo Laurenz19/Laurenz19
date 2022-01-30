@@ -1,5 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230FB5D4&center=true&height=54&lines=SAMBANY+Michel+Laurenzio;Full+Stack+JavaScript+Developer)
 
+
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%230FB5D4&center=true&height=54&lines=SAMBANY+Michel+Laurenzio;Full+Stack+JavaScript+Developer"/> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laurenz19&label=Profile%20views&color=0e75b6&style=flat" alt="laurenz19" /> </p>
 <hr/>
 
