@@ -2,6 +2,7 @@
 <h3 align="center">Full Stack JavaScript Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laurenz19&label=Profile%20views&color=0e75b6&style=flat" alt="laurenz19" /> </p>
+<hr/>
 
 - 🌱 I’m currently learning **all about vue.js stuff**
 
@@ -17,9 +18,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenz19&show_icons=true&theme=radical)
 
-<a href="https://github.com/laurenz19/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laurenz19&repo=github-readme-stats" />
-</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
