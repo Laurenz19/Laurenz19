@@ -2,6 +2,10 @@
 <h3 align="center"> < hello world/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laurenz19&label=Profile%20views&color=0e75b6&style=flat" alt="laurenz19" /> </p>
 <hr/>
+ 
+<p align="center">
+Recently graduated with bachelor's degree in software development at "Ecole National d'Informatique", university of Madagascar, I am avalaible for hire to work remotly as web developer. I qualified myself as a junior full stack developer, natural curious, quitly confident and hard worker to improve my knowledges and my skills  
+</p>  
   
  🌱 I’m currently learning...<br/><br/>
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
