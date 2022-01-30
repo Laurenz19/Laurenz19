@@ -15,13 +15,6 @@ Recently graduated with bachelor's degree in software development at "Ecole Nati
  <h3 align="center"> <img src = "https://github-readme-stats.vercel.app/api?username=laurenz19&show_icons=true&theme=radical"> </h3>
 <hr/>
 
-<h2 aligin="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
  <p align="right">
 <a href="https://linkedin.com/in/sambany-michel-laurenzio-48016b188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambany michel laurenzio" height="30" width="40" /></a>
 <a href="https://fb.com/laurenz.sambany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laurenzio sambany" height="30" width="40" /></a>
