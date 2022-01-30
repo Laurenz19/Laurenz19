@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAMBANY Michel Laurenzio</h1>
 <h3 align="center">Full Stack JavaScript Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laurenz19&label=Profile%20views&color=0e75b6&style=flat" alt="laurenz19" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=laurenz19&label=Profile%20views&color=0e75b6&style=flat" alt="laurenz19" /> </p>
 
 **A little bit about myself**
  <p>Recently graduated with bachelor's degree in software development at "Ecole National d'Informatique", 
