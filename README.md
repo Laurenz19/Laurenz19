@@ -17,7 +17,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenz19&show_icons=true&theme=radical)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/laurenz19/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laurenz19&repo=github-readme-stats" />
 </a>
 
