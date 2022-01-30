@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAMBANY Michel Laurenzio</h1>
-<h3 align="center">Full Stack JavaScript Developer</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230FB5D4&center=true&height=54&lines=SAMBANY+Michel+Laurenzio;Full+Stack+JavaScript+Developer)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laurenz19&label=Profile%20views&color=0e75b6&style=flat" alt="laurenz19" /> </p>
 <hr/>
@@ -18,7 +17,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenz19&show_icons=true&theme=radical)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230FB5D4&center=true&height=54&lines=SAMBANY+Michel+Laurenzio;Full+Stack+JavaScript+Developer)
+
 
 
 <h3 align="left">Connect with me:</h3>
