@@ -18,7 +18,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenz19&show_icons=true&theme=radical)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230FB5D4&center=true&height=54&lines=SAMBANY+Michel+Laurenzio;Full+Stack+JavaScript+Developer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230FB5D4&center=true&height=54&lines=SAMBANY+Michel+Laurenzio;Full+Stack+JavaScript+Developer)
 
 
 <h3 align="left">Connect with me:</h3>
