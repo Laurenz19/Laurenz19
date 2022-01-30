@@ -17,6 +17,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenz19&show_icons=true&theme=radical)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laurenz19&repo=github-readme-stats" />
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sambany-michel-laurenzio-48016b188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambany michel laurenzio" height="30" width="40" /></a>
