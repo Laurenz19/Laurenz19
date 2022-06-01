@@ -13,7 +13,7 @@ Recently graduated with bachelor's degree in software development at "Ecole Nati
  
  <br>
 
- <h3 align="center"> <img src = "https://github-readme-stats.vercel.app/api?username=laurenz19&show_icons=true&theme=radical"> </h3>
+ <h3 align="center"> <!--<img src = "https://github-readme-stats.vercel.app/api?username=laurenz19&show_icons=true&theme=radical">--> </h3>
 <br/><br/>
 
  <p align="center">
