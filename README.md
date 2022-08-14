@@ -2,7 +2,7 @@
 <h3 align="center"> < hello world/ > <!--<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>--> </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laurenz19&label=Profile%20views&color=0e75b6&style=flat" alt="laurenz19" /> </p>
 <hr/>
- 
+ <iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
 <p align="center">
 Recently graduated with bachelor's degree in software development at "Ecole National d'Informatique", university of Madagascar, I am avalaible for hire to work remotly as web developer. I qualified myself as a junior full stack developer, natural curious, quitly confident and working hard to improve my knowledges & my skills one day at a time
 </p>  
