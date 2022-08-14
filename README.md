@@ -1,10 +1,12 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%230FB5D4&center=true&height=54&lines=SAMBANY+Michel+Laurenzio;Full+Stack+JavaScript+Developer"/></p>
+<p align="center"> 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%230FB5D4&center=true&height=54&lines=SAMBANY+Michel+Laurenzio;Full+Stack+JavaScript+Developer"/></p>
 <h3 align="center"> < hello world/ > <!--<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>--> </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laurenz19&label=Profile%20views&color=0e75b6&style=flat" alt="laurenz19" /> </p>
 <hr/>
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 <p align="center">
 Recently graduated with bachelor's degree in software development at "Ecole National d'Informatique", university of Madagascar, I am avalaible for hire to work remotly as web developer. I qualified myself as a junior full stack developer, natural curious, quitly confident and working hard to improve my knowledges & my skills one day at a time
 </p>  
