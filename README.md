@@ -1,8 +1,8 @@
-<p align="center"> 
-  <div id="header" align="center">
+ <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%230FB5D4&center=true&height=54&lines=SAMBANY+Michel+Laurenzio;Full+Stack+JavaScript+Developer"/>
-  </div> 
+  </div>
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=%230FB5D4&center=true&height=54&lines=SAMBANY+Michel+Laurenzio;Full+Stack+JavaScript+Developer"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laurenz19&label=Profile%20views&color=0e75b6&style=flat" alt="laurenz19" /> </p>
