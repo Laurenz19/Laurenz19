@@ -9,7 +9,7 @@
 <hr/>
 
 <p align="center">
-Recently graduated with bachelor's degree in software development at "Ecole National d'Informatique", university of Madagascar, I am avalaible to work as web developer. I qualified myself as a junior full stack developer, natural curious, quitly confident and working hard to improve my knowledges & my skills one day at a time
+Recently graduated with a master's degree in software development from "Ecole National d'Informatique" shortly ENI, University of Madagascar, I have three years of experience and am available to work as a web developer. I am naturally curious, quietly confident, and I work hard to improve my knowledge and skills one day at a time.
 </p>  
 
 <!--<h1 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width = 32px></h1>-->
